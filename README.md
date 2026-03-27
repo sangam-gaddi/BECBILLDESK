@@ -26,3 +26,4 @@ A fast, reliable, and efficient transaction website for handling college fee pay
 1. Clone this repository
 2. Open index.html in your browser
 3. For development, use the developer mode
+changes
